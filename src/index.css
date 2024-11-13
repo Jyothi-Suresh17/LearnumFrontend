@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+
+
+.notfpund{
+  background-image: url('https://static.vecteezy.com/system/resources/previews/008/382/505/original/illustration-of-astronaut-in-space-for-404-website-error-page-not-found-text-cute-template-with-planet-stars-for-poster-banner-or-website-page-vector.jpg');
+  height:120vh;
+  background-size: cover;
+}
